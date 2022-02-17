@@ -1,0 +1,11 @@
+{
+    "mysql": {
+        "database": "b8one",
+        "usuario": "root",
+        "senha": "Pass@123",
+        "host": "127.0.0.1"
+    },
+    "api": {
+        "porta": 3000
+    }
+}
